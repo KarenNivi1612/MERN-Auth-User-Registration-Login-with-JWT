@@ -1,6 +1,6 @@
- MERN authentication system:
+** MERN authentication system:**
  
-Workings-
+**Workings-**
 
 ✅ After successful signup:
 
@@ -17,13 +17,13 @@ Shows an alert "Login successful!"
 Clears form data
 
  
- Install Required Packages-
+** Install Required Packages-**
  
  Frontend- npm install react-router-dom axios
  
  Backend- npm install express mongoose dotenv bcryptjs jsonwebtoken cors nodemon
 
-For Backend-Configure MongoDB
+**For Backend-Configure MongoDB**
 
 Create a .env file in the backend folder and add:
 
