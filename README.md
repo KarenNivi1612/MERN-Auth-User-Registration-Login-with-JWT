@@ -17,11 +17,11 @@ Shows an alert "Login successful!"
 Clears form data
 
  
-** Install Required Packages-**
+**Install Required Packages-**
  
- Frontend- npm install react-router-dom axios
+ **Frontend**- npm install react-router-dom axios
  
- Backend- npm install express mongoose dotenv bcryptjs jsonwebtoken cors nodemon
+ **Backend**- npm install express mongoose dotenv bcryptjs jsonwebtoken cors nodemon
 
 **For Backend-Configure MongoDB**
 
