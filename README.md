@@ -27,7 +27,7 @@ Clears form data
 
 Create a .env file in the backend folder and add:
 
-PORT=5000
+PORT=6500
 
 MONGO_URI=mongodb+srv://<your-mongodb-username>:<password>@cluster.mongodb.net/authDB
 
